@@ -1,9 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Header from './components/header';
-import Nav from './components/nav';
-import Profile from './components/profile';
+import Header from './components/header/header.js';
+import Nav from './components/nav/nav.js';
+import Profile from './components/Profile/Profile.js';
 
 
 
