@@ -1,9 +1,10 @@
 import React from 'react';
+import css from './header.module.css';
 
 const Header = () => {
-    return <div className='header'>
+    return <div className={css.header}>
     <div>
-      <img src='https://q-cf.bstatic.com/images/hotel/max1024x768/131/131251799.jpg'></img>
+      <img src='https://www.beststartcompton.org/wp-content/uploads/2019/02/39875853-header-wallpapers.jpg'></img>
     </div>
     </div>
 

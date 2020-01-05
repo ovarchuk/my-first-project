@@ -1,23 +1,24 @@
 import React from 'react';
+import css from './nav.module.css';
 
 const Nav = () => {
-    return <nav className='nav'>
-    <div>
+    return <nav className={css.nav}>
+    <div className={css.item}>
       Profile
     </div>
-    <div> 
+    <div className={css.item}> 
      Messages 
     </div>
-    <div> 
+    <div className={css.item}> 
      Feed 
     </div>
-    <div> 
+    <div className={`${css.item} ${css.active}`}> 
      History 
     </div>
-    <div> 
+    <div className={css.item}> 
      Settings 
     </div>
-  </nav>
+  </nav> 
 }
 
 export default Nav;
