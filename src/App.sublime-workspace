@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"test_predicate"
+			],
+			[
+				"req",
+				"requestUrl"
+			],
+			[
+				"ur",
+				"urlParams"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"o",
+				"ourForm"
+			],
+			[
+				"ou",
+				"ourForm"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"save",
+				"save_cache"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alexander.varchuk/Downloads/Update.XML",
+		"/Users/alexander.varchuk/Desktop/gen2_horeca_baner_and_3_articles.html",
+		"/private/var/folders/6r/5mlc513j2ts95v3fxpdk36m80000gn/T/wzQL.CYYtvJ/11 ТЦ/CFM_CC_35_20191216_00011.xml",
+		"/Users/alexander.varchuk/Downloads/12_купонов_3_артикула_дисклемер.html",
+		"/Users/alexander.varchuk/Downloads/Invoice_store_no_Invoice_Update_YYYY.MM.DD_hh.mm.ss.xml",
+		"/Users/alexander.varchuk/Desktop/metro - telesales templetes/SCO_2_baners.html",
+		"/Users/alexander.varchuk/Downloads/ES_invoices",
+		"/Users/alexander.varchuk/Downloads/Almerys_ES",
+		"/Users/alexander.varchuk/Downloads/use-service-account.sh",
+		"/Users/alexander.varchuk/Downloads/PMI_anna_bot.json",
+		"/Users/alexander.varchuk/Desktop/AAA/10_inv_test.xml",
+		"/Users/alexander.varchuk/Desktop/metro - telesales templetes/TMcoupons&articles_v1.html",
+		"/Users/alexander.varchuk/Desktop/metro - telesales templetes/baner&articles_till_13.10.2019.html",
+		"/Users/alexander.varchuk/Desktop/metro - telesales templetes/baner&TMcoupons_v1.html",
+		"/Metro_trader_letter_3offers_03092019.html",
+		"/Users/alexander.varchuk/Downloads/metro_2_offers.html",
+		"/Users/alexander.varchuk/Downloads/METRO_letter_baner_3offers.html",
+		"/Users/alexander.varchuk/Downloads/CUSTOMER_XML_v2.xml",
+		"/Users/alexander.varchuk/Downloads/CUST_COREZOID-2019081111.xml",
+		"/Users/alexander.varchuk/Downloads/metro_ru_test_ES.erl",
+		"/Users/alexander.varchuk/Downloads/login_page_password_lambda.html",
+		"/Users/alexander.varchuk/Downloads/Marqeta_dummy_page.html",
+		"/Users/alexander.varchuk/Downloads/marqeta_page.html",
+		"/Users/alexander.varchuk/Downloads/login_page(tmp 2).html",
+		"/Users/alexander.varchuk/Downloads/metro.ru - html v2",
+		"/Users/alexander.varchuk/Downloads/METRO_2.html",
+		"/Users/alexander.varchuk/Downloads/TW redirect.html",
+		"/Users/alexander.varchuk/Downloads/README.md",
+		"/Users/alexander.varchuk/Downloads/account-representation (3).yaml",
+		"/Users/alexander.varchuk/Downloads/aws_signature.json",
+		"/Users/alexander.varchuk/Downloads/folder_268486_1559036575.json",
+		"/Users/alexander.varchuk/Downloads/aws_signature",
+		"/Users/alexander.varchuk/Downloads/account-representation.yaml",
+		"/Users/alexander.varchuk/Downloads/myredirectpage.html",
+		"/Users/alexander.varchuk/Downloads/qr.json",
+		"/Users/alexander.varchuk/Downloads/login_page_example.html",
+		"/Users/alexander.varchuk/Downloads/login_page_tmp1_lambda.html",
+		"/Users/alexander.varchuk/Downloads/login_page_tmp_lambda.html",
+		"/Users/alexander.varchuk/Desktop/MAMBU_priora/ajax/form.php",
+		"/Users/alexander.varchuk/Desktop/MAMBU_priora/ajax/main.js",
+		"/Users/alexander.varchuk/Desktop/MAMBU_priora/ajax/index.html",
+		"/Users/alexander.varchuk/Desktop/action_ajax_form.php",
+		"/Users/alexander.varchuk/Downloads/login_page(tmp lambda API).html",
+		"/Users/alexander.varchuk/Desktop/ajax.js",
+		"/Users/alexander.varchuk/Desktop/index.html",
+		"/Users/alexander.varchuk/Downloads/lambda.js",
+		"/Users/alexander.varchuk/Downloads/folder_1474_1556018752.json",
+		"/Users/alexander.varchuk/Downloads/sync-node.json",
+		"/Users/alexander.varchuk/Downloads/10_CUST_CAREZOID_2019031415463212.xml",
+		"/Users/alexander.varchuk/Downloads/agtb_manual_posting_v2.1.json",
+		"/Users/alexander.varchuk/Downloads/GoCardless_v1.9.json",
+		"/Users/alexander.varchuk/Downloads/Comply_Advantage_v1.1.json",
+		"/Users/alexander.varchuk/Downloads/AGTB.txt",
+		"/Users/alexander.varchuk/Downloads/agtb-loan-fee-amortization-master/README.md",
+		"/Users/alexander.varchuk/Downloads/GoCardless_Readme.md",
+		"/Users/alexander.varchuk/Downloads/Mambu_processes.json",
+		"/Users/alexander.varchuk/Downloads/GoCardless 1.6.json",
+		"/Users/alexander.varchuk/Downloads/upstream.20180108.conf",
+		"/Users/alexander.varchuk/Downloads/capisync.20180108.conf",
+		"/Users/alexander.varchuk/Downloads/Bot platform 2.0 (1).json",
+		"/Users/alexander.varchuk/Downloads/Coach_Assistant_config.json",
+		"/Users/alexander.varchuk/Downloads/Алгоритм_1(1) (1).xml",
+		"/Users/alexander.varchuk/Downloads/folder_214445_1524577656.json",
+		"/Users/alexander.varchuk/Desktop/Varus_es.erl"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
